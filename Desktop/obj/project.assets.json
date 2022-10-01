@@ -2013,7 +2013,6 @@
       },
       "frameworks": {
         "netcoreapp3.1": {
-          "targetAlias": "netcoreapp3.1",
           "projectReferences": {
             "C:\\Users\\ibrag\\RiderProjects\\Server\\Server\\Server.csproj": {
               "projectPath": "C:\\Users\\ibrag\\RiderProjects\\Server\\Server\\Server.csproj"
@@ -2029,7 +2028,6 @@
     },
     "frameworks": {
       "netcoreapp3.1": {
-        "targetAlias": "netcoreapp3.1",
         "dependencies": {
           "Microsoft.AspNetCore.SignalR.Client": {
             "target": "Package",
